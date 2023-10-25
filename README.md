@@ -8,7 +8,7 @@ Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end 
 </div> 
 
 ## Lenguajes y herramientas
-![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
+![langujes&tools](https://i.gifer.com/embedded/download/G9x8.gif)
 
 ## Sobre mi 👉🙃👈
 
