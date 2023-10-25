@@ -4,7 +4,7 @@ Fullstack Developer<br>
 Me agradan los grandes desafíos y los emprendo con pasión, compromiso y determinación.<br>
 Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end como del Back-end.<br>
 <div align="center" >
-      <img align="center" src="https://i.gifer.com/embedded/download/G9x8.gif" width="330" height="225"  />
+      <img align="center" src="https://i2.wp.com/www.careerguide.com/career/wp-content/uploads/2021/01/bh-advisor-dribbble.gif" width="330" height="225"  />
 </div> 
 
 ## Lenguajes y herramientas
