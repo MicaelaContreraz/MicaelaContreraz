@@ -4,7 +4,7 @@ Fullstack Developer<br>
 Me agradan los grandes desafíos y los emprendo con pasión, compromiso y determinación.<br>
 Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end como del Back-end.<br>
 <div align="center" >
-      <img align="center" src="https://user-images.githubusercontent.com/76783198/182483558-499ad227-69c3-4323-b4f5-abab4942dade.gif" width="330" height="225"  />
+      <img align="center" src="https://i.gifer.com/embedded/download/G9x8.gif" width="330" height="225"  />
 </div> 
 
 ## Lenguajes y herramientas
