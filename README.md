@@ -1,5 +1,5 @@
 ![portada](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
-# **Hola, Soy [MICAELA CONTRERAZ](https://www.linkedin.com/in/leandro-caponetto-developer/)** <img width="45" src="https://i.gifer.com/embedded/download/G9x8.gif" alt="holis">
+# **Hola, Soy [MICAELA CONTRERAZ](https://www.linkedin.com/in/micaela-contreraz/)** <img width="45" src="https://i.gifer.com/embedded/download/G9x8.gif" alt="holis">
 Fullstack Developer<br>
 Me agradan los grandes desafíos y los emprendo con pasión, compromiso y determinación.<br>
 Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end como del Back-end.<br>
@@ -26,14 +26,14 @@ Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end 
 ## 📫 Para contactarme 
 
 <p>
-    <a href="https://caponettopeppers@gmail.com">
+    <a href="https://contrerazmicaela@gmail.com">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
-      caponettopeppers@gmail.com
+      contrerazmicaela@gmail.com
     </a>    
     <br>
     <a href="https://www.linkedin.com/in/leandro-caponetto-developer/">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182481396-19c89e94-f3ba-4e33-9df4-f5b7a094cf8f.svg"/>
-      LEANDRO CAPONETTO
+      MICAELA CONTREZ
     </a>
 <p/>
 ## Mis repositorios 👇
