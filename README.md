@@ -15,7 +15,7 @@ Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end 
 
 <p>
 @@ -26,6 +23,9 @@ En este 2022 estoy cursando el bootcamp de Henry, donde obtengo los conocimiento
-📞Tel: +54 1161691727
+📞Tel: +54 1122633177
 <p/>
 
 ## HENRY MIS ESTUDIOS
