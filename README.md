@@ -1,5 +1,5 @@
 ![portada](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
-# **Hola, Soy [MICAELA CONTRERAZ](https://www.linkedin.com/in/leandro-caponetto-developer/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
+# **Hola, Soy [MICAELA CONTRERAZ](https://www.linkedin.com/in/leandro-caponetto-developer/)** <img width="45" src="https://i.gifer.com/embedded/download/G9x8.gif" alt="holis">
 Fullstack Developer<br>
 Me agradan los grandes desafíos y los emprendo con pasión, compromiso y determinación.<br>
 Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end como del Back-end.<br>
@@ -8,7 +8,7 @@ Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end 
 </div> 
 
 ## Lenguajes y herramientas
-![langujes&tools](https://i.gifer.com/embedded/download/G9x8.gif)
+![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
 
 ## Sobre mi 👉🙃👈
 
